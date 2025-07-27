@@ -1,0 +1,29 @@
+page,x1,y1,x2,y2,text,level
+1,262,264,785,318,"Monitoring the Migrations of Wild Snake River Spring/Summer Chinook Salmon Smolts, 2002",title
+3,386,90,613,101,EXECUTIVE SUMMARY,H1
+6,426,90,574,101,INTRODUCTION,H1
+6,449,127,550,138,Background,H2
+6,445,538,554,549,Project Goals,H2
+8,453,101,547,112,METHODS,H1
+8,382,138,618,149,Fish Collection and Tagging,H2
+8,416,450,583,461,Recaptures at Dams,H2
+9,398,101,599,112,Juvenile Migrant Traps,H2
+9,399,413,598,424,Interrogation at Dams,H2
+9,428,674,569,685,Migration Timing,H2
+11,380,651,619,662,Environmental Information,H2
+12,458,127,541,138,RESULTS,H1
+12,382,154,618,165,Fish Collection and Tagging,H2
+12,416,572,583,583,Recaptures at Dams,H2
+17,417,127,582,138,Recaptures at Traps,H2
+17,418,761,580,772,Detections at Dams,H2
+19,428,450,569,461,Migration Timing,H2
+19,145,488,325,499,Lower Granite Dam,H3
+29,145,127,361,138,Comparison with Flows,H3
+29,380,413,619,424,Environmental Information,H2
+38,443,90,556,101,DISCUSSION,H1
+39,401,584,598,595,Relationships with Flow,H2
+40,421,90,578,101,Climatic Influence,H2
+41,378,90,622,101,"Cumulative Data: 1989-2002",H2
+44,393,90,607,101,ACKNOWLEDGMENTS,H1
+45,432,90,567,101,REFERENCES,H1
+48,394,442,605,453,"APPENDIX: Data Tables and Figures",H1
