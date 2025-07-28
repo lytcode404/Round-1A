@@ -1,5 +1,3 @@
----
-
 ```markdown
 # 🧠 Intelligent PDF Outline Extractor — Adobe Challenge 2025 Round 1A
 
