@@ -121,7 +121,7 @@ def extract_outline_from_pdf(pdf_path, timeout_per_page=2, limit=-1):
             if hd["text"] != outline["title"]:
                 outline["outline"].append(hd)
     return outline
-
+# input_dir="app/input", output_dir="app/output" ( if running locally else use docker)
 def process_all_pdfs(input_dir="input", output_dir="output", timeout=2, limit=-1):
     os.makedirs(output_dir, exist_ok=True)
     pdf_files = [f for f in os.listdir(input_dir) if f.lower().endswith(".pdf")]
@@ -139,5 +139,5 @@ def process_all_pdfs(input_dir="input", output_dir="output", timeout=2, limit=-1
 
 if __name__ == "__main__":
     # Change the limit here
-    limit = 50  # set to -1 for no page limit, or 50 for up to 50 pages per PDF
+    limit = -1  # set to -1 for no page limit, or 50 for up to 50 pages per PDF
     process_all_pdfs(timeout=2, limit=limit)
